@@ -1,0 +1,20 @@
+## Summary
+Enhanced the OctoAcme Project Management Docs README to provide a comprehensive overview and improve navigation for all team members.
+
+## Changes
+- ✅ Added detailed project management approach and core principles
+- ✅ Expanded project lifecycle explanation with all five phases
+- ✅ Reorganized core documents with logical grouping by phase/purpose
+- ✅ Added quick reference checklists for all major phases (Initiation, Planning, Execution, Pre-Release)
+- ✅ Included role-specific guidance for PMs, PdMs, Developers, and QA teams
+- ✅ Added comprehensive templates and artifacts reference
+- ✅ Improved navigation structure for new team members
+
+## Related Issue
+Closes #3
+
+## Acceptance Criteria
+- [x] Content aligns with existing process docs
+- [x] Update improves clarity and closes the navigation gap
+- [x] README provides clear structure for team members to find key processes, checklists, and roles
+- [x] Links to all relevant documents in `/docs` are functional and properly organized
